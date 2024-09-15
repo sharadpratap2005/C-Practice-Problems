@@ -1,0 +1,31 @@
+ some beginner-level programming questions for you to practice:
+
+Hello, World!
+Write a program that prints "Hello, World!" to the console.
+
+Basic Calculator
+Write a program that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
+
+Fibonacci Sequence
+Write a program that generates and prints the Fibonacci sequence up to a specified number of terms.
+
+Factorial Calculation
+Write a program that calculates the factorial of a positive integer entered by the user.
+
+Palindrome Checker
+Write a program that checks if a given string is a palindrome (reads the same forwards and backwards).
+
+Number Guessing Game
+Write a program that generates a random number between 1 and 100 and prompts the user to guess the number. The program should provide hints if the guess is too high or too low and count the number of attempts until the user guesses correctly.
+
+Sum of Array Elements
+Write a program that takes an array of integers and calculates the sum of its elements.
+
+Reverse a String
+Write a program that reverses a string input by the user and prints the reversed string.
+
+Prime Number Checker
+Write a program that checks if a given number is a prime number.
+
+Simple Interest Calculator
+Write a program that calculates simple interest based on principal, rate, and time provided by the user.
